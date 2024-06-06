@@ -7,7 +7,7 @@
 ## <div align="center">Hi👋, I'm Nikita Yadav, an Aspiring Data Analyst👨‍💻</div>  
   
 
-- 🔭 I’m currently doing a Virtual Internship at AtliQ Technologies🚀  
+- 🔭 I’m an Aspiring data Analyst.🚀  
   
 
 - 🌱 I have learned Data Analyst Technologies like Data Cleaning, Data 
