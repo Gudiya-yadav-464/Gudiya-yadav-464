@@ -4,7 +4,7 @@
 </div>  
   
 
-## <div align="center">Hi👋, I'm Nikita Yadav, an Aspiring Data Analyst👨‍💻</div>  
+## <div align="center">Hi👋, I'm Nikita Yadav, a Data Analyst👨‍💻</div>  
   
 
 - 🔭 I’m an Aspiring data Analyst.🚀  
